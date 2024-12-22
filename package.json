@@ -24,6 +24,7 @@
     "better-config": "^1.2.3",
     "bluebird": "^3.5.5",
     "body-parser": "^1.19.0",
+    "caniuse-lite": "^1.0.30001690",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-validator": "^6.0.0",
